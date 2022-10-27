@@ -1,4 +1,6 @@
 # put_io_lab
 
-Sebastian Czusz
-27.10.2022
+Sebastian Czusz <br/>
+27.10.2022 <br/>
+Politechnika Poznańska <br/>
+Poznań <br/>
