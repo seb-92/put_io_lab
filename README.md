@@ -2,5 +2,5 @@
 
 Sebastian Czusz <br/>
 27.10.2022 <br/>
-Politechnika <br/>
+Politechnika Poznańska <br/>
 Poznań <br/>
